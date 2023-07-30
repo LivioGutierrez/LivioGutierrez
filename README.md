@@ -7,7 +7,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/liviogutierrez/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="nelson medel" width="50" height="50" /></a>
+            alt="nelson medel" width="45" height="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
