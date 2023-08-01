@@ -1,32 +1,39 @@
-### Hi there 👋
+### Hey 👋 I'm Livio Gutierrez 
 
-<h1 align="center">Hola 👋, Soy Livio Guterrez</h1>
-<h3 align="center">Desarrollador Full Stack Java  </h3>
 
+- 💻  Full Stack Developer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/liviogutierrez/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="nelson medel" width="45" height="45" /></a>
+<a href="https://www.linkedin.com/in/liviogutierrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="70" height="70" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-        target="_blank" rel="noreferrer"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="70" height="70" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="60" height="60" /> </a> <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="70" height="70" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <a href="https://postman.com" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-           width="60" height="60" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60" />
-    </a>
-</p>
+<h3 align="left">Languages and Tools</h3>
+    <p align="left"> <a href="#" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
+                width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
+                height="40" margin-right="3px"/> </a>
+                <a href="#" target="_blank"> <img
+                </a> <a href="https://www.mysql.com/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
+                width="55" height="40" margin-right="3px"/> </a>
+                <a href="#" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="java"
+                width="50" height="40" margin-right="3px"/> </a> 
+                </a> <a href="https://getbootstrap.com" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
+                width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
+                src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript"
+                width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
+                src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" alt="css3"
+                width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
+                width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            target="_blank"></a>
+    <a href="https://www.mysql.com/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="mysql"
+                width="55" height="40" margin-right="3px"/> </a>
+                <a href="#" target="_blank"> <img</p>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cintia-MV&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="CintiaMV" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cintia-MV&show_icons=true&locale=en&theme=tokyonight" alt="CintiaMV" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cintia-MV&theme=dark" alt="CintiaMV" /></p>
