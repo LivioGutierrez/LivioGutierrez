@@ -1,14 +1,16 @@
-### 👋Hola, soy Livio Gutierrez.
+### 👋Hola, soy Livio Gutierrez.  <a href="#" target="blank"><img align="center" src="https://i.postimg.cc/9QmsMczh/3-removebg-preview.png" alt="url-de-linkedin" height="50" width="50" /></a>
 
 - 💻  Full Stack Developer
 - 📖  Lector
 - 🎮  Jugador
+  
+
 
 #Quien soy
 
 soy un programador chileno, estudio desde el 2020 programacion, soy autodidacta, me gusta la naturaleza, amo la tecnologia, me gusta ser responsable.
 
-<h3 align="left">Conectate conmigo:</h3><a href="https://www.linkedin.com/in/liviogutierrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" /></a>
+<h3 align="left">Conectate conmigo:</h3><a href="https://www.linkedin.com/in/liviogutierrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="40" width="40" /></a>
 
 <h3 align="left">Lenguajes</h3>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
