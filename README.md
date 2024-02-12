@@ -12,7 +12,7 @@ soy un programador chileno, estudio desde el 2020 programacion, soy autodidacta,
 
 <h3 align="left">Lenguajes</h3>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
-width="50" height="40" margin-right="3px"/> </a> <imgsrc="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40" margin-right="3px"/> </a>
+width="40" height="40"/></a> <a href="# target="_blank">  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> </a>
 
 <h3 align="left">Habilidades</h3>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
