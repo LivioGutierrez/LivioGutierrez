@@ -6,9 +6,11 @@
   
 
 
-#Quien soy
+# Quien soy
 
-soy un programador chileno, estudio desde el 2020 programacion, soy autodidacta, me gusta la naturaleza, amo la tecnologia, me gusta ser responsable.
+Soy un programador chileno, estudio desde el 2020 programacion, soy autodidacta, me gusta la naturaleza, amo la tecnologia, me gusta ser responsable.
+
+Actualmente estoy cursando un bootcapm de Python asi dentro de unos años mas dedicarme al mundo de la IA
 
 <h3 align="left">Conectate conmigo:</h3><a href="https://www.linkedin.com/in/liviogutierrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="40" width="40" /></a>
 
