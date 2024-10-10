@@ -5,38 +5,49 @@
 
 **Conoceme**
 
-Soy un programador chileno, estudio desde el 2020 programacion, soy autodidacta, me gusta la naturaleza, amo la tecnologia, me gusta ser responsable.
+<p>Soy un programador chileno con pasión por la tecnología y la resolución de problemas. Me encanta aprender de manera autodidacta, lo que me ha permitido adquirir habilidades en diversos lenguajes y herramientas. Actualmente, me estoy enfocando en perfeccionar mi dominio de Python, explorando tanto su uso en desarrollo web, Machine Learning y la automatización.</p> 
 
-Actualmente estoy cursando un bootcapm de Python asi dentro de unos años mas dedicarme al mundo de la IA
+<p>Mi especialidad es el front-end, donde me esfuerzo por crear interfaces intuitivas, atractivas y eficientes, poniendo énfasis en la experiencia del usuario y el rendimiento de las aplicaciones web.</p>
 
-<br>
+- 💻 Mi enfoque es llegar a programar en Machine Learning.
+- 🌱 Amo la tecnología y cómo está cambiando el mundo.
+- 🌿 Disfruto mucho conectando con la naturaleza y explorando el aire libre.
+- 📜 Soy un apasionado de la historia y me encanta aprender sobre diferentes épocas y culturas.
+- 🎮 Me gustan los juegos de gestión de recursos y optimización, donde cada decisión cuenta para mejorar la eficiencia y lograr el éxito.
 
-# Conectate conmigo
-<a href="https://www.linkedin.com/in/liviogutierrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="40" width="40" /></a>
+<p>Te interesa trabajar conmigo, contactame a mi <a href="https://www.linkedin.com/in/liviogutierrez/">  Linkedin</a></p>
+
+
 
 ## Conocimientos
 <h3>Tecnologias</h3>
 
-![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
+<span>
+  <img width=100px alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&logoSize=auto">
+  <img width=87px alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white&logoSize=auto">
+  <img width=130px alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white&logoSize=auto">
+  <img width=100px alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&logoSize=auto">
+</span>
 
 <h3>Base de datos</h3>
 
-![Static Badge](https://img.shields.io/badge/MySql-%234479A1?logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?logo=postgresql&logoColor=white)
+
+<span>
+  <img width=100px alt="Static Badge" src="https://img.shields.io/badge/MySql-%234479A1?logo=mysql&logoColor=white&logoSize=auto">
+  <img width=120px alt="Static Badge" src="https://img.shields.io/badge/Postgresql-%234169E1?logo=postgresql&logoColor=white&logoSize=auto">
+</span>
+
+
 
 <h3>Otras Habilidades</h3>
+<span>
+  <img width=100px alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white">
+  <img width=144px alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white&logoSize=auto">
+  <img width=75px alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white&logoSize=auto">
+  <img width=120px alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white&logoSize=auto">
+</span>
 
+<h2>Estadísticas de Github:</h2> 
 
-
-
-
-
-# Habilidades
-<a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="40"/></a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/></a> 
-<a href="#" target="_blank">  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" alt="css3" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"></a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+[![](https://github-readme-stats.vercel.app/api?username=Riiloma&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Riiloma&theme=material-palenight)](https://github.com/Elanza-48)
