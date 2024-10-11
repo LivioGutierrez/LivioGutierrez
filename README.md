@@ -49,5 +49,8 @@
 
 <h2>Estadísticas de Github:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Riiloma&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Riiloma&theme=material-palenight)](https://github.com/Elanza-48)
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Riiloma&show_icons=true&count_private=true&hide_border=true&title_color=795e5e&icon_color=795e5e&text_color=c9d1d9&bg_color=0d1117" alt="Mr MRF github stats"/> 
+ 
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Riiloma&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=795e5e&fire=a88885&currStreakLabel=795e5e"/>
+</div>
