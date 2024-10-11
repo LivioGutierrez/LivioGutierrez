@@ -17,27 +17,22 @@
 
 <p>📬 Te interesa trabajar conmigo, contactame a mi <a href="https://www.linkedin.com/in/liviogutierrez/">Linkedin</a></p>
 
+<hr>
+
 <img width=320px src="https://github.com/user-attachments/assets/70c209a2-f76f-4257-a718-e88b95ea8608">
 
 <h3>Tecnologias</h3>
-
 <span>
   <img width=100px alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&logoSize=auto">
   <img width=87px alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white&logoSize=auto">
   <img width=130px alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white&logoSize=auto">
   <img width=100px alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&logoSize=auto">
 </span>
-
 <h3>Base de datos</h3>
-
-
 <span>
   <img width=100px alt="Static Badge" src="https://img.shields.io/badge/MySql-%234479A1?logo=mysql&logoColor=white&logoSize=auto">
   <img width=120px alt="Static Badge" src="https://img.shields.io/badge/Postgresql-%234169E1?logo=postgresql&logoColor=white&logoSize=auto">
 </span>
-
-
-
 <h3>Otras Habilidades</h3>
 <span>
   <img width=100px alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white">
@@ -45,9 +40,7 @@
   <img width=75px alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white&logoSize=auto">
   <img width=120px alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white&logoSize=auto">
 </span>
-
-
-
+<hr>
 <div>
   <br>
   <img width=320px src="https://github.com/user-attachments/assets/63256722-18f1-40d7-b504-9c8b81f4522b">
