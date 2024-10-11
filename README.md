@@ -1,6 +1,6 @@
 <h1 align="center"><b>¡Hola! , Soy Livio Gutierrez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
-<img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2I2NGxvamNkcGdqcHhjZGMzcGoyMXJvNHc2aHV5d24wdHl4Zmd4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width=200px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2I2NGxvamNkcGdqcHhjZGMzcGoyMXJvNHc2aHV5d24wdHl4Zmd4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 **Conoceme**
