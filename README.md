@@ -15,11 +15,11 @@
 - 📜 Soy un apasionado de la historia y me encanta aprender sobre diferentes épocas y culturas.
 - 🎮 Me gustan los juegos de gestión de recursos y optimización, donde cada decisión cuenta para mejorar la eficiencia y lograr el éxito.
 
-<p>Te interesa trabajar conmigo, contactame a mi <a href="https://www.linkedin.com/in/liviogutierrez/">  Linkedin</a></p>
+<p>📬 Te interesa trabajar conmigo, contactame a mi <a href="https://www.linkedin.com/in/liviogutierrez/">  Linkedin</a></p>
 
 
 
-## Conocimientos
+## 🛠 Conocimientos
 <h3>Tecnologias</h3>
 
 <span>
@@ -50,7 +50,9 @@
 <h2>Estadísticas de Github:</h2> 
 
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Riiloma&show_icons=true&count_private=true&hide_border=true&title_color=795e5e&icon_color=795e5e&text_color=c9d1d9&bg_color=0d1117" alt="Mr MRF github stats"/> 
- 
-  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Riiloma&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=795e5e&fire=a88885&currStreakLabel=795e5e"/>
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=LivioGutierrez&show_icons=true&count_private=true&hide_border=true&title_color=F2E8CF&icon_color=F2E8CF&text_color=F2E8CF&bg_color=0d1117" alt="Mr MRF github stats"/> 
+  
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=LivioGutierrez&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=F2E8CF&fire=F2E8CF&currStreakLabel=F2E8CF"/>
+
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivioGutierrez&layout=compact&hide_border=true&title_color=F2E8CF&text_color=F2E8CF&bg_color=0d1117"/>
 </div>
