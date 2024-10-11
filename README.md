@@ -17,7 +17,7 @@
 
 <p>📬 Te interesa trabajar conmigo, contactame a mi <a href="https://www.linkedin.com/in/liviogutierrez/">Linkedin</a></p>
 
-<img width=300px src="https://github.com/user-attachments/assets/70c209a2-f76f-4257-a718-e88b95ea8608">
+<img width=320px src="https://github.com/user-attachments/assets/70c209a2-f76f-4257-a718-e88b95ea8608">
 
 <h3>Tecnologias</h3>
 
@@ -50,7 +50,7 @@
 
 <div>
   <br>
-  <img width=300px src="https://github.com/user-attachments/assets/63256722-18f1-40d7-b504-9c8b81f4522b">
+  <img width=320px src="https://github.com/user-attachments/assets/63256722-18f1-40d7-b504-9c8b81f4522b">
 </div>
 
 
