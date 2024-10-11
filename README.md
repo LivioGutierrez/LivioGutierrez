@@ -1,9 +1,8 @@
 <h1 align="center"><b>¡Hola! , Soy Livio Gutierrez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
 <img align="right" width=200px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2I2NGxvamNkcGdqcHhjZGMzcGoyMXJvNHc2aHV5d24wdHl4Zmd4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-**Conoceme**
+<br>
+<img width=150px src="https://github.com/user-attachments/assets/9ae586e2-2bda-44e0-91fe-633cfd234c36">
 
 <p>Soy un programador chileno con pasión por la tecnología y la resolución de problemas. Me encanta aprender de manera autodidacta, lo que me ha permitido adquirir habilidades en diversos lenguajes y herramientas. Actualmente, me estoy enfocando en perfeccionar mi dominio de Python, explorando tanto su uso en desarrollo web, Machine Learning y la automatización.</p> 
 
