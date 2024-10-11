@@ -51,6 +51,5 @@
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=LivioGutierrez&show_icons=true&count_private=true&hide_border=true&title_color=F2E8CF&icon_color=F2E8CF&text_color=F2E8CF&bg_color=0d1117" alt="Mr MRF github stats"/> 
   
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=LivioGutierrez&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=F2E8CF&fire=F2E8CF&currStreakLabel=F2E8CF"/>
-
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivioGutierrez&layout=compact&hide_border=true&title_color=F2E8CF&text_color=F2E8CF&bg_color=0d1117"/>
 </div>
+<img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivioGutierrez&layout=compact&hide_border=true&title_color=F2E8CF&text_color=F2E8CF&bg_color=0d1117"/>
